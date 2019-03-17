@@ -702,5 +702,6 @@
   <include name="snippets/manifest.xml" />
   <include name="snippets/phhuson.xml" />
   <include name="snippets/opengapps.xml" />
+  <include name="snippets/aosgp.xml" />
 
 </manifest>
