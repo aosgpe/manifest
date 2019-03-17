@@ -31,9 +31,6 @@
 <remove-project name="platform/external/selinux" />
 <project path="external/selinux" name="platform_external_selinux" remote="phh" revision="android-9.0.0_r34-phh" />
 
-<remove-project name="platform/frameworks/base" />
-<project path="frameworks/base" name="platform_frameworks_base" remote="phh" revision="android-9.0.0_r34-phh" />
-
 <remove-project name="platform/frameworks/av" />
 <project path="frameworks/av" name="platform_frameworks_av" remote="phh" revision="android-9.0.0_r34-phh" />
 
