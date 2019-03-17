@@ -8,6 +8,6 @@
 <remove-project name="platform/packages/apps/Settings" />
 <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="aosgpe" revision="android-9.0.0_r34" />
 
-<project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="aosgp" revision="pie" />
+<project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="aosgpe" revision="pie" />
 
 </manifest>
