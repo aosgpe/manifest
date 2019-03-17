@@ -5,4 +5,7 @@
 <remove-project name="platform/frameworks/base" />
 <project path="frameworks/base" name="android_frameworks_base" remote="aosgpe" revision="android-9.0.0_r34" />
 
+<remove-project name="platform/packages/apps/Settings" />
+<project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="aosgpe" revision="android-9.0.0_r34" />
+
 </manifest>
