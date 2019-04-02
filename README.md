@@ -1,7 +1,7 @@
 AOSGP E Guide:-
 ============
 
-• Also available in Spanish [**here**]()
+• Also available in Spanish [**here**](https://github.com/aosgpe/manifest/wiki/AOSGP-E-Gu%C3%ADa)
 
 -----------------------------------------------------------------------------
 
